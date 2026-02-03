@@ -1,0 +1,7 @@
+# Ignore all files in scratch directory
+# This directory is for active session work only
+# Content should not be committed to git
+*
+
+# Allow this .gitignore file itself
+!.gitignore
